@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "128970528113",
+    "project_id": "wetalk-464ff",
+    "storage_bucket": "wetalk-464ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128970528113:android:06ebd06e335be0cbc852d0",
+        "android_client_info": {
+          "package_name": "com.wetalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128970528113-p7krdsfen4dan1mrj7493e5urhs5a2j6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wetalk",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "128970528113-srn58dp9pcj530210j2f9aib3ago08fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy0-1In7_T-cb7CDaP168-a8MSWYMfTn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128970528113-srn58dp9pcj530210j2f9aib3ago08fg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
