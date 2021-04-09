@@ -58,8 +58,10 @@ Completed  ❤️ ✅
 
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Nodejs](https://nodejs.org/en/)
-- [Postgresql](hhttps://www.postgresql.org/)
+- [Reactjs](https://reactjs.org/)
+- [Firebase](https://firebase.google.com/)
+- [Socket.io](https://socket.io/)
+- [WebRTC](https://webrtc.org/)
 
 # 👩‍💻 Author
 
