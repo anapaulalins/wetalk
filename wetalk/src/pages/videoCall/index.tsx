@@ -62,7 +62,7 @@ const VideoCall: React.FC = () => {
 
   useEffect(() => {
     if (!localStream) {
-      socket.current = io.connect('http://192.168.18.6:3333');
+      socket.current = io.connect('http://192.168.18.7:3333');
 
       socket.current.emit('joinVideo', dataItem.room);
 
@@ -109,7 +109,6 @@ const VideoCall: React.FC = () => {
             .catch(failure);
         });
 
-        console.log(data.peerCount);
         if (data.peerCount >= 1) {
           const {firestore} = firebaseApp();
 
@@ -125,9 +124,6 @@ const VideoCall: React.FC = () => {
 
   useEffect(() => {
     if (localStream) {
-      console.log('PFV FUNCIONA');
-      console.log(localStream);
-
       socket.current.on('online-peer', socketID => {
         console.log('ONLINE PEERS');
         createPeerConnection(socketID, pc => {
@@ -240,6 +236,9 @@ const VideoCall: React.FC = () => {
   };
 
   const stopTracks = stream => {
+    if (!stream.getTracks()) {
+      return;
+    }
     stream.getTracks().forEach(track => track.stop());
   };
 
@@ -260,7 +259,6 @@ const VideoCall: React.FC = () => {
       <RemoteVideo>
         {remoteStream ? (
           <Video
-            key={2}
             mirror={true}
             style={{width: dimensions.width, height: dimensions.height}}
             objectFit="contain"
@@ -281,7 +279,6 @@ const VideoCall: React.FC = () => {
           onPress={() => localStream._tracks[1]._switchCamera()}>
           {camera.camera && (
             <Video
-              key={1}
               zOrder={0}
               objectFit="cover"
               style={{width: 170, height: 250, backgroundColor: 'black'}}
