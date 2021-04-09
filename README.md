@@ -27,9 +27,11 @@ Completed  ❤️ ✅
   <img src="https://user-images.githubusercontent.com/46818637/114222721-4d15ce80-9945-11eb-9447-8b93890bb50c.png" alt="drawing" width="400" height="200"/>
   &nbsp;&nbsp;&nbsp&nbsp
   <img src="https://user-images.githubusercontent.com/46818637/114222938-982fe180-9945-11eb-80c1-60e31db5ce88.png" alt="drawing" width="400" height="200"/>
-  &nbsp;&nbsp;&nbsp&nbsp
   <img src="https://user-images.githubusercontent.com/46818637/114222950-9b2ad200-9945-11eb-8364-0bf41b821507.png" alt="drawing" width="400" height="200"/>
   &nbsp;&nbsp;&nbsp&nbsp
+  <img src="https://user-images.githubusercontent.com/46818637/114236011-5dcf4000-9957-11eb-954b-51e41853cae5.png" alt="drawing" width="400" height="200"/>
+  &nbsp;&nbsp;&nbsp&nbsp
+  
   
  # 📌 Template Mobile
 
