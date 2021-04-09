@@ -55,7 +55,7 @@ Completed  ❤️ ✅
 </p>
 
 # 📌  Technologies
-
+- [Javascript](https://www.javascript.com/)
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Reactjs](https://reactjs.org/)
