@@ -20,28 +20,10 @@ Completed  ❤️ ✅
 # 📌 Template Web
 
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/46818637/105865319-948cef80-5fd1-11eb-9d9c-e1e2e12a579f.jpg" alt="drawing" width="290" height="600"/>
+  <img src="https://user-images.githubusercontent.com/46818637/114222561-20fa4d80-9945-11eb-8597-f978971ce147.png" alt="drawing" width="290" height="290"/>
   &nbsp;&nbsp;&nbsp&nbsp
-  <img src="https://user-images.githubusercontent.com/46818637/105865888-2137ad80-5fd2-11eb-94ee-5214883e1dd4.jpg" alt="drawing" width="290" height="600"/>
-  &nbsp;&nbsp;&nbsp&nbsp
-  <img src="https://user-images.githubusercontent.com/46818637/105867115-788a4d80-5fd3-11eb-8b81-32520f7f981d.jpg" alt="drawing" width="290" height="600"/>
-  &nbsp;&nbsp;&nbsp&nbsp
-  <img src="https://user-images.githubusercontent.com/46818637/105865916-272d8e80-5fd2-11eb-9616-b65e9b841563.jpg" alt="drawing" width="290" height="600"/>
-  &nbsp;&nbsp;&nbsp&nbsp
-  <img src="https://user-images.githubusercontent.com/46818637/105865924-2a287f00-5fd2-11eb-94fe-33d0a76857dc.jpg" alt="drawing" width="290" height="600"/>
-  &nbsp;&nbsp;&nbsp&nbsp
-   <img src="https://user-images.githubusercontent.com/46818637/105865932-2d236f80-5fd2-11eb-9ab6-1221bc2cdda3.jpg" alt="drawing" width="290" height="600"/>
-  &nbsp;&nbsp;&nbsp&nbsp
-  <img src="https://user-images.githubusercontent.com/46818637/105865958-37456e00-5fd2-11eb-997f-cae721d833ca.jpg" alt="drawing" width="290" height="600"/>
-  &nbsp;&nbsp;&nbsp&nbsp
-  <img src="https://user-images.githubusercontent.com/46818637/105865946-3280ba00-5fd2-11eb-82ad-8266d522c78f.jpg" alt="drawing" width="290" height="600"/>
-  &nbsp;&nbsp;&nbsp&nbsp
-  <img src="https://user-images.githubusercontent.com/46818637/105865951-34e31400-5fd2-11eb-864d-67f6ec468ddb.jpg" alt="drawing" width="290" height="600"/>
-  &nbsp;&nbsp;&nbsp&nbsp
-   <img src="https://user-images.githubusercontent.com/46818637/105865940-301e6000-5fd2-11eb-99ac-6f97a1edc82e.jpg" alt="drawing" width="290" height="600"/>
-  &nbsp;&nbsp;&nbsp&nbsp
-  
-  
+ 
+ 
 </p>
 
 # 📌  Technologies
