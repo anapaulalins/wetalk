@@ -20,15 +20,15 @@ Completed  ❤️ ✅
 # 📌 Template Web
 
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/46818637/114222561-20fa4d80-9945-11eb-8597-f978971ce147.png" alt="drawing" width="500" height="290"/>
+  <img src="https://user-images.githubusercontent.com/46818637/114222561-20fa4d80-9945-11eb-8597-f978971ce147.png" alt="drawing" width="400" height="200"/>
   &nbsp;&nbsp;&nbsp&nbsp
-  <img src="https://user-images.githubusercontent.com/46818637/114222716-4a1ade00-9945-11eb-8503-ec6913a4adea.png" alt="drawing" width="500" height="290"/>
+  <img src="https://user-images.githubusercontent.com/46818637/114222716-4a1ade00-9945-11eb-8503-ec6913a4adea.png" alt="drawing" width="400" height="200"/>
   &nbsp;&nbsp;&nbsp&nbsp
-  <img src="https://user-images.githubusercontent.com/46818637/114222721-4d15ce80-9945-11eb-9447-8b93890bb50c.png" alt="drawing" width="500" height="290"/>
+  <img src="https://user-images.githubusercontent.com/46818637/114222721-4d15ce80-9945-11eb-9447-8b93890bb50c.png" alt="drawing" width="400" height="200"/>
   &nbsp;&nbsp;&nbsp&nbsp
-  <img src="https://user-images.githubusercontent.com/46818637/114222938-982fe180-9945-11eb-80c1-60e31db5ce88.png" alt="drawing" width="500" height="290"/>
+  <img src="https://user-images.githubusercontent.com/46818637/114222938-982fe180-9945-11eb-80c1-60e31db5ce88.png" alt="drawing" width="400" height="200"/>
   &nbsp;&nbsp;&nbsp&nbsp
-  <img src="https://user-images.githubusercontent.com/46818637/114222950-9b2ad200-9945-11eb-8364-0bf41b821507.png" alt="drawing" width="500" height="290"/>
+  <img src="https://user-images.githubusercontent.com/46818637/114222950-9b2ad200-9945-11eb-8364-0bf41b821507.png" alt="drawing" width="400" height="200"/>
   &nbsp;&nbsp;&nbsp&nbsp
   
  
