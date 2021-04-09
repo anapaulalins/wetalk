@@ -34,10 +34,20 @@ Completed  ❤️ ✅
  # 📌 Template Mobile
 
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/46818637/114222561-20fa4d80-9945-11eb-8597-f978971ce147.png" alt="drawing" width="400" height="200"/>
+  <img src="https://user-images.githubusercontent.com/46818637/114229676-8b63bb80-994e-11eb-9e75-86cf542b307a.jpg" alt="drawing" width="400" height="600"/>
   &nbsp;&nbsp;&nbsp&nbsp
-  
- 
+  <img src="https://user-images.githubusercontent.com/46818637/114229687-8f8fd900-994e-11eb-8307-4761ada469d8.jpg" alt="drawing" width="400" height="600"/>
+  &nbsp;&nbsp;&nbsp&nbsp
+  <img src="https://user-images.githubusercontent.com/46818637/114229699-94ed2380-994e-11eb-84f6-23a362521621.jpg" alt="drawing" width="400" height="600"/>
+  &nbsp;&nbsp;&nbsp&nbsp
+  <img src="https://user-images.githubusercontent.com/46818637/114229729-9f0f2200-994e-11eb-9c61-950eee9e0b7a.jpg" alt="drawing" width="400" height="600"/>
+  &nbsp;&nbsp;&nbsp&nbsp
+  <img src="https://user-images.githubusercontent.com/46818637/114229753-a6363000-994e-11eb-961e-8af5a70558f8.jpg" alt="drawing" width="400" height="600"/>
+  &nbsp;&nbsp;&nbsp&nbsp
+  <img src="https://user-images.githubusercontent.com/46818637/114229777-ab937a80-994e-11eb-992b-898540134dd6.jpg" alt="drawing" width="400" height="600"/>
+  &nbsp;&nbsp;&nbsp&nbsp
+   <img src="https://user-images.githubusercontent.com/46818637/114229804-b3531f00-994e-11eb-9e3f-88941e15f5f5.jpg" alt="drawing" width="400" height="600"/>
+  &nbsp;&nbsp;&nbsp&nbsp
  
 </p>
 
